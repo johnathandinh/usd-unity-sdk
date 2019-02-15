@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+        "com.unity.formats.usd": "file:../../package/com.unity.formats.usd/"
+	}
+}

@@ -1,8 +1,5 @@
 {
     "name": "Unity.Formats.USD.Runtime",
-    "references": [
-        "Unity.Timeline"
-    ],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor",
